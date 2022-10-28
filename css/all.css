@@ -327,14 +327,14 @@ h2.slogan{
 	font-size: 18px;
 	padding: 0 0 0 20px;
 }
-.progress li span.unity{width: 90%;}
-.progress li span.gamemaker{width: 55%;}
-.progress li span.unreal{width: 60%;}
+.progress li span.unity{width: 100%%;}
+.progress li span.gamemaker{width: 40%;}
+.progress li span.unreal{width: 55%;}
 .progress li span.flash{width: 0%;}
-.progress li span.python{width: 80%;}
+.progress li span.python{width: 90%;}
 .progress li span.csharp{width: 85%;}
 .progress li span.java{width: 65%;}
-.progress li span.html{width: 30%;}
+.progress li span.html{width: 40%;}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
@@ -540,10 +540,10 @@ transition: all 0.5s ease-in-out;
 .footer-content .social{
 	overflow:hidden;
 	margin: 0 auto 45px;
-	width: 670px;
+	width: 390px;
 }
 .footer-content .social li{
-	float:center;
+	float:left;
 	margin: 0 0 0 10px;
 	border-radius: 50%;
 	behavior: url(css/PIE.htc);
